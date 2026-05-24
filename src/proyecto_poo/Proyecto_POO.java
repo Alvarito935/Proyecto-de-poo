@@ -14,7 +14,11 @@ public class Proyecto_POO {
         
         System.out.println("anghelo chipi");
         // TODO code application logic here
+        
+        System.out.println("me pica los cocos ");
+        System.out.println("gemidos...");
     }
+    
  
     
 }
